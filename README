@@ -1,0 +1,4 @@
+Original blog post can be found here:
+http://davidejones.com/blog/cakephp/cakephp-datasource-valves-steam-api/
+
+Essentially this is a datasource for cakephp to output news players and achievements easily.
